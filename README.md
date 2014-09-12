@@ -2,4 +2,5 @@ hello-world
 ===========
 
 my first-ish repository
-well, this gotta be my first git related project-stuff
+well, this is gonna be my first git related project-stuff
+looking forward to it
